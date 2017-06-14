@@ -1,7 +1,8 @@
 # Nortal Summer University 2017
 
-Workshop for testers 'What Tools To Use To Test Better?' by Irina Ivanova
-irina.ivanova@nortal.com
+Workshop for testers *What Tools To Use To Test Better?*
+
+Irina Ivanova, irina.ivanova@nortal.com
 
 ## Used Tools
 
