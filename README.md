@@ -19,6 +19,7 @@ Irina Ivanova, [irina.ivanova@nortal.com](irina.ivanova@nortal.com)
 	* spanD - [https://chrome.google.com/webstore/detail/spand/eifmojfjlkacjfnaeagfnfjgpajanphn](https://chrome.google.com/webstore/detail/spand/eifmojfjlkacjfnaeagfnfjgpajanphn)
 	* Textarea Checker - [https://chrome.google.com/webstore/detail/textarea-checker/gomnbfgdoefjhpahcbahpeppplelepdd](https://chrome.google.com/webstore/detail/textarea-checker/gomnbfgdoefjhpahcbahpeppplelepdd)
 * Postman - [https://www.getpostman.com](https://www.getpostman.com)
+* REST services sandbox - [http://httpbin.org](http://httpbin.org)
 
 ## Further Reading
 
