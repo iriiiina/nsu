@@ -6,8 +6,8 @@ Irina Ivanova, [irina.ivanova@nortal.com](irina.ivanova@nortal.com)
 
 ## Exercises
 
-* Exercise 1: [https://iriiiina.github.io/nsu/src/1.html](https://iriiiina.github.io/nsu/src/1.html)
-* Exercise 2: [https://iriiiina.github.io/nsu/src/2.html](https://iriiiina.github.io/nsu/src/2.html)
+* Exercise 1: [https://iriiiina.github.io/nsu/1.html](https://iriiiina.github.io/nsu/1.html)
+* Exercise 2: [https://iriiiina.github.io/nsu/2.html](https://iriiiina.github.io/nsu/2.html)
 
 ## Used Tools
 
