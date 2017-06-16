@@ -1,6 +1,8 @@
 # Nortal Summer University 2017
 
-Workshop for testers *What Tools To Use To Test Better?*
+Workshop for junior testers *What Tools To Use To Test Better?* (front end part)
+
+15 June 2017
 
 Irina Ivanova, [irina.ivanova@nortal.com](irina.ivanova@nortal.com)
 
@@ -8,6 +10,7 @@ Irina Ivanova, [irina.ivanova@nortal.com](irina.ivanova@nortal.com)
 
 * Exercise 1: [https://iriiiina.github.io/nsu/1.html](https://iriiiina.github.io/nsu/1.html)
 * Exercise 2: [https://iriiiina.github.io/nsu/2.html](https://iriiiina.github.io/nsu/2.html)
+* Exercise 3: [http://httpbin.org](http://httpbin.org)
 
 ## Slides
 [Slides.pdf](https://github.com/iriiiina/nsu/blob/master/Slides.pdf)
