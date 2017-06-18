@@ -1,6 +1,6 @@
-# Nortal Summer University 2017
+# What Tools To Use To Test Better?
 
-Workshop for junior testers *What Tools To Use To Test Better?* (front end part)
+Workshop for junior testers at [Nortal Summer University 2017](https://nortal.com/summeruniversity/) about tools for testing front end.
 
 15 June 2017
 
