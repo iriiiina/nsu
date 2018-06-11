@@ -10,11 +10,35 @@ Irina Ivanova, [irina.ivanova@nortal.com](irina.ivanova@nortal.com)
 
 *Exercises were made for Chrome, so some features can not work at other browsers (like input type date).*
 
-* Exercise 1: [https://iriiiina.github.io/nsu/1.html](https://iriiiina.github.io/nsu/1.html)
-* Exercise 2: [https://iriiiina.github.io/nsu/2.html](https://iriiiina.github.io/nsu/2.html)
+* Exercise 1: DevTool [https://iriiiina.github.io/nsu/1](https://iriiiina.github.io/nsu/1)
+* Exercise 2: Web Accessibility [https://iriiiina.github.io/nsu/2](https://iriiiina.github.io/nsu/2)
+* Exercise 3: Web Security [https://iriiiina.github.io/nsu/3](https://iriiiina.github.io/nsu/3)
 
 ## Slides
 
 ## Used Tools
 
+* Chrome DevTool – [https://developers.google.com/web/tools/chrome-devtools/](https://developers.google.com/web/tools/chrome-devtools/)
+* Chrome extensions:
+	* stringG - [https://chrome.google.com/webstore/detail/stringg/mklinoolelpkognneckhecljdfhehfbc](https://chrome.google.com/webstore/detail/stringg/mklinoolelpkognneckhecljdfhehfbc)
+	* Textarea Checker - [https://chrome.google.com/webstore/detail/textarea-checker/gomnbfgdoefjhpahcbahpeppplelepdd](https://chrome.google.com/webstore/detail/textarea-checker/gomnbfgdoefjhpahcbahpeppplelepdd)
+    * aXe - [https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd)
+	* Cookie Inspector - [https://chrome.google.com/webstore/detail/cookie-inspector/jgbbilmfbammlbbhmmgaagdkbkepnijn](https://chrome.google.com/webstore/detail/cookie-inspector/jgbbilmfbammlbbhmmgaagdkbkepnijn)
+* W3C online validator - [https://validator.w3.org](https://validator.w3.org)
+
 ## Further Reading
+
+### Browsers
+* Google Documentation on Chrome DevTool - [https://developers.google.com/web/tools/chrome-devtools/](https://developers.google.com/web/tools/chrome-devtools/)
+* Long, but useful article about how browsers work - [https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+
+### Web Accessibility
+* W3C Web Accessibility Initiative – [https://www.w3.org/WAI/](https://www.w3.org/WAI/)
+
+### Security Testing
+* OWASP page about software security - [https://www.owasp.org/](https://www.owasp.org/)
+* Collection of Evil JavaScript (just for fun) - [http://codebox.org.uk/pages/monkeyshine-javascript-practical-jokes](http://codebox.org.uk/pages/monkeyshine-javascript-practical-jokes)
+* Big list of naughty strings - [https://github.com/minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings)
+* MDN specification on HTTP cookie - [https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
+* What all Developers need to know about: Cookie Security - [https://techblog.topdesk.com/security/cookie-security/](https://techblog.topdesk.com/security/cookie-security/)
+* Session Management Cheat Sheet - [https://www.owasp.org/index.php/Session_Management_Cheat_Sheet](https://www.owasp.org/index.php/Session_Management_Cheat_Sheet)
