@@ -89,3 +89,6 @@ input[type=button]:hover {
   margin-bottom: 0;
   color: #9365B8;
 }
+.icon {
+  width: 10px;
+}
