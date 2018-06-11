@@ -5,32 +5,28 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <link rel="stylesheet" type="text/css" href="css/style.css"/>
   <script src="js/ex2.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <title>Nortal Summer University 2018: Exercise 2</title>
-
-  <script>
-    document.cookie = "username=Evil Cookie";
-  </script>
 </head>
 
 <body>
 
   <h1>Exercise 2</h1>
-  <h2>power of tools</h2>
+  <h2>web accessibility</h2>
 
   <div id="input">
     <form>
-      <label for="start">start:</label>
-      <input type="date" name="start" id="start"/>
-      <label for="end">end:<label>
-      <input type="date" name="end" id="end"/>
+      <label for="name">text:</label>
+      <input type="text" name="name" id="name"/>
+      <label for="age">number:<label>
+      <input type="number" name="age" id="age"/>
       <input type="button" value="Submit" onclick="send();"/>
     </form>
   </div>
 
   <div id="output">
-    <div class="values" id="startValue"></div>
-    <div class="values" id="endValue"></div>
-    <div class="values" id="spanValue"></div>
+    <div class="values" id="nameValue"></div>
+    <div class="values" id="ageValue"></div>
   </div>
 
 </body>
