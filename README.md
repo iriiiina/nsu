@@ -16,6 +16,8 @@ Irina Ivanova, [irina.ivanova@nortal.com](irina.ivanova@nortal.com)
 
 ## Slides
 
+[Slides.pdf](https://github.com/iriiiina/nsu/blob/master/Slides.pdf)
+
 ## Used Tools
 
 * Chrome DevTool – [https://developers.google.com/web/tools/chrome-devtools/](https://developers.google.com/web/tools/chrome-devtools/)
