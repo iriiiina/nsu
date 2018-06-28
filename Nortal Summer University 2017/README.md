@@ -10,12 +10,12 @@ Irina Ivanova, [irina.ivanova@nortal.com](irina.ivanova@nortal.com)
 
 *Exercises were made for Chrome, so some features can not work at other browsers (like input type date).*
 
-* Exercise 1: [https://iriiiina.github.io/nsu/1.html](https://iriiiina.github.io/nsu/1.html)
-* Exercise 2: [https://iriiiina.github.io/nsu/2.html](https://iriiiina.github.io/nsu/2.html)
+* Exercise 1: 1.html
+* Exercise 2: 2.html
 * Exercise 3: [http://httpbin.org](http://httpbin.org)
 
 ## Slides
-[Slides.pdf](https://github.com/iriiiina/nsu/blob/master/Slides.pdf)
+[Slides.pdf](https://github.com/iriiiina/nsu/blob/master/Nortal%20Summer%20University%202017/Slides.pdf)
 
 ## Used Tools
 
