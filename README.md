@@ -8,7 +8,7 @@ Irina Ivanova, [irina.ivanova@nortal.com](irina.ivanova@nortal.com)
 
 ## Exercises
 
-*Exercises were made for Chrome, so some features can not work at other browsers (like input type date).*
+*Exercises were made for Chrome, so some features can not work at other browsers.*
 
 * Exercise 1: DevTool [https://iriiiina.github.io/nsu/1](https://iriiiina.github.io/nsu/1)
 * Exercise 2: Web Accessibility [https://iriiiina.github.io/nsu/2](https://iriiiina.github.io/nsu/2)
