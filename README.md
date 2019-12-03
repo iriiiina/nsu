@@ -1,6 +1,6 @@
 # Getting Started With Web Testing
 
-2h workshop for junior testers at [Nortal Summer University 2018](https://nortal.com/summeruniversity/) about tools for testing front end. Previous workshop "What Tools To Use To Test Better?" is located in `Nortal Summer University 2017` directory.
+2h workshop for junior testers at [Nortal Summer University 2018](https://nortal.com/summeruniversity/) about tools for testing front end. Previous workshop "What Tools To Use To Test Better?" is located in [`Nortal Summer University 2017`](https://github.com/iriiiina/nsu/tree/master/Nortal%20Summer%20University%202017) directory.
 
 13 June 2018
 
