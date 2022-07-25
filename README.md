@@ -34,6 +34,7 @@ Irina Ivanova, [irina.ivanova@nortal.com](irina.ivanova@nortal.com)
 * Google Documentation on Chrome DevTool - [https://developers.google.com/web/tools/chrome-devtools/](https://developers.google.com/web/tools/chrome-devtools/)
 * Long, but useful article about how browsers work - [https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 * Online W3C tutorial about HTML – [https://www.w3schools.com/Html/](https://www.w3schools.com/Html/)
+* Free HTML tutorial - [https://www.scaler.com/topics/html/](https://www.scaler.com/topics/html/)
 
 ### Web Accessibility
 * W3C Web Accessibility Initiative – [https://www.w3.org/WAI/](https://www.w3.org/WAI/)
